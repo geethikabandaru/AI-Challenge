@@ -10,13 +10,14 @@ To design and implement a system that takes a brand's logo and product image as 
 
 The demonstration uses the following context:
 
-| Component | Detail |
-| :--- | :--- |
-| **Brand Name** | EcoBloom |
-| **Product Name** | Sustainable Coffee Pods |
-| **Key Features/Benefits** | 100% compostable, ethically sourced beans, rich flavor, convenient. |
-| **Target Audience** | Environmentally conscious millennials and Gen Z. |
-| **Desired Tone** | Fresh, ethical, and modern. |
+| Component                 | Detail                                                                                              |
+| ------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Brand Name**            | Nikon                                                                                               |
+| **Product Name**          | Nikon DSLR / Mirrorless Camera                                                                      |
+| **Key Features/Benefits** | High-resolution imaging, advanced autofocus, 4K video recording, durable build, ideal for creators. |
+| **Target Audience**       | Photography enthusiasts, professional photographers, vloggers, and content creators.                |
+| **Desired Tone**          | Professional, modern, and creative.                                                                 |
+
 
 ## Technical Requirements & Architecture
 
